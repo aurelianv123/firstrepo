@@ -1,7 +1,7 @@
 """
-helloworld.py
+hello.py
 
-A program to say hello
+A program that prints a hello message.
 """
 
 if __name__ == '__main__':
